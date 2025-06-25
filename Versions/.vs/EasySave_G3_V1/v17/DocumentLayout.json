@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EasySaveRattrapage\\Versions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\scenariolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\scenariolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\prioritymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\prioritymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\parametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\parametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\localizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\localizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\langages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\langages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\langage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\langage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\consoleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\consoleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|d:\\easysaverattrapage\\versions\\easysave_g3_v3_0\\consolegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FDBB-E762-7BBC-7FCB-BF010F38E5CC}|EasySave_G3_V3_0\\EasySave_G3_V3_0.csproj|solutionrelative:easysave_g3_v3_0\\consolegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SocketServer.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\SocketServer.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\SocketServer.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\SocketServer.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\SocketServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:04:09.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scenarioList.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\scenarioList.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\scenarioList.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\scenarioList.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\scenarioList.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADgv38AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:04:06.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scenario.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\Scenario.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\Scenario.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\Scenario.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\Scenario.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAAABEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:02:07.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriorityManager.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\PriorityManager.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\PriorityManager.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\PriorityManager.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\PriorityManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:01:14.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParametersManager.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\ParametersManager.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\ParametersManager.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\ParametersManager.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\ParametersManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:01:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalizationManager.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\LocalizationManager.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\LocalizationManager.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\LocalizationManager.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\LocalizationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:01:08.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Langages.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\Langages.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\Langages.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\Langages.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\Langages.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:01:05.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Langage.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\Langage.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\Langage.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\Langage.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\Langage.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwE4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:00:23.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleViewModel.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\ConsoleViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\ConsoleViewModel.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\ConsoleViewModel.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\ConsoleViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:00:20.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleGUI.cs",
+              "DocumentMoniker": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\ConsoleGUI.cs",
+              "RelativeDocumentMoniker": "EasySave_G3_V3_0\\ConsoleGUI.cs",
+              "ToolTip": "D:\\EasySaveRattrapage\\Versions\\EasySave_G3_V3_0\\ConsoleGUI.cs",
+              "RelativeToolTip": "EasySave_G3_V3_0\\ConsoleGUI.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:00:13.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

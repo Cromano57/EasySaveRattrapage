@@ -1,0 +1,12 @@
+D:\EasySaveRattrapage\Versions\EasySave.Core\bin\Release\net8.0\EasySave.Core.deps.json
+D:\EasySaveRattrapage\Versions\EasySave.Core\bin\Release\net8.0\EasySave.Core.dll
+D:\EasySaveRattrapage\Versions\EasySave.Core\bin\Release\net8.0\EasySave.Core.pdb
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\EasySave.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\EasySave.Core.AssemblyInfoInputs.cache
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\EasySave.Core.AssemblyInfo.cs
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\EasySave.Core.csproj.CoreCompileInputs.cache
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\EasySave.Core.sourcelink.json
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\EasySave.Core.dll
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\refint\EasySave.Core.dll
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\EasySave.Core.pdb
+D:\EasySaveRattrapage\Versions\EasySave.Core\obj\Release\net8.0\ref\EasySave.Core.dll

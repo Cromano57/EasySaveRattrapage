@@ -1,0 +1,12 @@
+{
+  "FormatLog": "XML",
+  "ExtensionsChiffrees": [
+    ".pdf",
+    ".txt"
+  ],
+  "ExtensionsPrioritaires": [
+    ".txt"
+  ],
+  "CheminsLogiciels": [],
+  "Langue": "Fran\u00E7ais"
+}

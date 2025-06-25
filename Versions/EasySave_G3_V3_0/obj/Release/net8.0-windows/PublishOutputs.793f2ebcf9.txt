@@ -1,0 +1,7 @@
+D:\EasySaveRattrapage\Versions\EasySave_G3_V3_0\bin\Release\net8.0-windows\publish\EasySave_G3_V3_0.exe
+D:\EasySaveRattrapage\Versions\EasySave_G3_V3_0\bin\Release\net8.0-windows\publish\EasySave_G3_V3_0.dll
+D:\EasySaveRattrapage\Versions\EasySave_G3_V3_0\bin\Release\net8.0-windows\publish\EasySave_G3_V3_0.deps.json
+D:\EasySaveRattrapage\Versions\EasySave_G3_V3_0\bin\Release\net8.0-windows\publish\EasySave_G3_V3_0.runtimeconfig.json
+D:\EasySaveRattrapage\Versions\EasySave_G3_V3_0\bin\Release\net8.0-windows\publish\EasySave_G3_V3_0.pdb
+D:\EasySaveRattrapage\Versions\EasySave_G3_V3_0\bin\Release\net8.0-windows\publish\EasySave.Core.dll
+D:\EasySaveRattrapage\Versions\EasySave_G3_V3_0\bin\Release\net8.0-windows\publish\EasySave.Core.pdb

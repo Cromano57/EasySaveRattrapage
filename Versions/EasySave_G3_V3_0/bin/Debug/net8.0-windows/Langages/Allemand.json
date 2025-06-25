@@ -1,0 +1,40 @@
+{
+  "MainWindow.Title":            "Sicherungen:",
+  "MainWindow.Play":             "Start",
+  "MainWindow.Add":              "Hinzufügen",
+  "MainWindow.Settings":         "Einstellungen",
+  "MainWindow.CMD":              "CMD",
+
+  "MainWindow.NameLabel":        "Name:",
+  "MainWindow.SourceLabel":      "Quelle:",
+  "MainWindow.TargetLabel":      "Ziel:",
+  "MainWindow.TypeLabel":        "Typ:",
+  "MainWindow.DescriptionLabel": "Beschreibung:",
+  "MainWindow.Cancel":           "Abbrechen",
+  "MainWindow.Validate":         "Bestätigen",
+
+  "ParamsWindow.Title":                      "🎛️ Einstellungen",
+  "ParamsWindow.LogFormatHeader":            "📝 Protokolldateiformat",
+  "ParamsWindow.LogFormat.JSON":             "JSON",
+  "ParamsWindow.LogFormat.XML":              "XML",
+
+  "ParamsWindow.EncryptedExtensionsHeader":  "🔐 Zu verschlüsselnde Erweiterungen",
+  "ParamsWindow.AddExtension":               "Hinzufügen",
+  "ParamsWindow.RemoveExtension":            "Entfernen",
+
+  "ParamsWindow.SoftwareHeader":             "📦 Unternehmenssoftware (.exe)",
+  "ParamsWindow.Browse":                     "Durchsuchen",
+  "ParamsWindow.AddSoftware":                "Hinzufügen",
+  "ParamsWindow.RemoveSoftware":             "Entfernen",
+
+  "ParamsWindow.LanguageHeader":             "🌐 Schnittstellensprache",
+
+  "ParamsWindow.Save":                       "Speichern",
+  "ParamsWindow.Cancel":                     "Abbrechen",
+
+  "ParamsWindow.PriorityExtensionsHeader": "Prioritäre Erweiterungen",
+  "ParamsWindow.AddPriorityExtension":    "Hinzufügen",
+  "ParamsWindow.RemovePriorityExtension": "Entfernen",
+  "MainWindow.ProgressHeader":            "Fortschritt (%)"
+
+}
